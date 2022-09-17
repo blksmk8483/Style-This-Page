@@ -1,0 +1,51 @@
+.header, #center-text {
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 14px;
+    font-family: 'Roboto Slab', serif;
+}
+
+/* Different text color */
+#red-text {
+    color: red
+}
+
+#blue-text {
+    color: blue
+}
+
+#green-text {
+    color: green
+}
+
+/* Different text size */
+#font-size-big {
+    font-size: 45px;
+}
+
+#font-size-small {
+    font-size: 10px;
+}
+
+/* Multiple text attributes */
+#multi-fancy {
+    font-size: 30px;
+    color: orange;
+    font-weight: bold;
+}
+
+/* Multiple <p> lines with the same class */
+.styledFont {
+    color: green;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+/* Image with a border */
+#styledImage {
+    width: 350px;
+    border: 25px solid rgb(185, 27, 27);
+}
